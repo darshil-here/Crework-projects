@@ -1,16 +1,17 @@
-During the 1st week of crework, we were given the task to make a replica of the following image with HTML only.
+# Login & Signup Form
 
-![0c3aef11afb6f742fc51ba54538ec987](https://user-images.githubusercontent.com/104206815/180591594-1061cb83-63e9-489a-bf90-ef4b710008db.png)
+During the 1st week of crework, we were given the task to make a replica of Login/Signup module with HTML only.
 
-Below is the HTML-only Signup/Login module I created.
+## Reference Image
 
-![Capture](https://user-images.githubusercontent.com/104206815/180591760-14409dba-b7da-449e-966d-075dccaea723.PNG)
+![reference-img](https://user-images.githubusercontent.com/104206815/180605047-21119cc7-d45e-4f39-a309-cc29bafd5e26.png)
 
-As of right now, I know enough CSS to replicate the reference picture. Therefore, I spent a few hours making my HTML Login/Signup module look like the reference image.
-Unfortunately, I wasn't able to customize the "Sign up with Google" button specifically.
+## My Login/Signup Module (HTML Only)
 
-![Capture01](https://user-images.githubusercontent.com/104206815/180592100-fd7385d1-74da-4006-802e-ee18a6576de5.PNG) ![Capture02](https://user-images.githubusercontent.com/104206815/180592105-642d5aee-453a-40cd-80e6-f5a74026cbc8.PNG)
+![Capture](https://user-images.githubusercontent.com/104206815/180605249-74240dc5-af4b-48f2-90c9-b0787629b6ae.PNG)
 
-Demonstration video for my project:
+## My Login/Sign Module (HTML & CSS)
 
-[screen-capture (2).webm](https://user-images.githubusercontent.com/104206815/180592071-e7deaa7d-1cb4-4535-917b-3ff8fc400f3c.webm)
+I know enough CSS to replicate the reference picture. Therefore, I spent some time making my HTML Login/Signup module look more like the reference image. Unfortunately, I wasn't able to customize the "Sign up with Google" button specifically.
+
+![Signup](https://user-images.githubusercontent.com/104206815/180605622-3e266914-954d-4db4-b68a-a507b4b8164c.png) ![Login](https://user-images.githubusercontent.com/104206815/180605629-15de1060-0049-4f1b-b94e-345e7b2aad4a.png)
