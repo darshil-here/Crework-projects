@@ -1,0 +1,116 @@
+body {
+  background-color: #e2e2e2;
+  font-family: "Lato", sans-serif;
+}
+.signup-box {
+  width: 360px;
+  height: 530px;
+  margin: auto;
+  background-color: white;
+  border: 3px;
+  border-radius: 5px;
+}
+h1 {
+  text-align: left;
+  padding-top: 15px;
+  margin-left: 20px;
+  width: 300px;
+}
+.google-btn {
+  text-align: center;
+  width: 300px;
+  margin-left: 20px;
+  vertical-align: center;
+}
+
+hr {
+  width: 320px;
+  border: none;
+  padding: 0;
+  height: 1px;
+  background: #e2e2e2;
+  opacity: 50%;
+}
+form {
+  width: 300px;
+  margin-left: 20px;
+}
+form label {
+  display: flex;
+  margin-top: 20px;
+  margin-bottom: 03px;
+  font-size: 16px;
+}
+form input {
+  width: 100%;
+  padding: 7px;
+  border: 1px solid #e2e2e2;
+  border-radius: 6px;
+  outline: none;
+}
+.abc-box {
+  display: inline-block;
+}
+
+input[type="password"] {
+  margin-bottom: 16px;
+}
+
+.signup-btn {
+  width: 320px;
+  height: 35px;
+  margin-top: 20px;
+  border: none;
+  background-color: #003bff;
+  color: white;
+  font-family: "Lato", sans-serif;
+  font-size: 15px;
+  border-radius: 6px;
+  margin-bottom: 12px;
+}
+.login-btn {
+  width: 320px;
+  height: 35px;
+  margin-top: 20px;
+  border: none;
+  background-color: #003bff;
+  color: white;
+  font-family: "Lato", sans-serif;
+  font-size: 15px;
+  border-radius: 6px;
+  margin-bottom: 12px;
+}
+.bottom-login {
+  text-align: center;
+  padding-top: 10px;
+  font-size: 15px;
+  text-decoration: none;
+}
+.bottom-signup {
+  text-align: center;
+  padding-top: 10px;
+  font-size: 15px;
+  text-decoration: none;
+}
+.forgot-pass {
+  text-align: center;
+  margin-top: 05px;
+  text-decoration: none;
+  font-weight: 450;
+  color: #1865f2;
+}
+.bottom-login01 {
+  text-decoration: none;
+}
+.bottom-signup01 {
+  text-decoration: none;
+}
+.forgot-pass01 {
+  text-decoration: none;
+}
+.terms {
+  text-decoration: none;
+}
+.privacy {
+  text-decoration: none;
+}
