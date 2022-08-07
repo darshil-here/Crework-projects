@@ -1,6 +1,6 @@
 # Hulu Website Clone
 
-> Our task was to clone an existing website. I created a responsive clone of Hulu's website with HTML & CSS.
+> Our task was to clone an existing website. I created a responsive clone of Hulu's website with HTML & CSS..
 
 ### Deployed Link: https://hulu-clone-crework.netlify.app/
 
