@@ -2,7 +2,7 @@
 
 > Our task was validate form inputs using Javascript.
 
-### Deployed Link: https://62f8c9f7b952c754c8fddd5a--melodious-duckanoo-b6607b.netlify.app/
+### Deployed Link: https://form-validation-crework.netlify.app/
 
 ![screencapture-127-0-0-1-5500-index-html-2022-08-14-15_41_04](https://user-images.githubusercontent.com/104206815/184532386-8a1a2668-dbca-41d6-b01d-a4348b38285e.png)
 
